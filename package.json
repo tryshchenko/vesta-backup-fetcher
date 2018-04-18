@@ -1,0 +1,15 @@
+{
+  "name": "vesta-backup-fetcher",
+  "version": "1.0.0",
+  "description": "Download today's backup from vesta server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Oleksandr Tryshchenko <ensaierwa@gmail.com> (tryshchenko.com)",
+  "license": "ISC",
+  "dependencies": {
+    "scp2": "^0.5.0"
+  }
+}
