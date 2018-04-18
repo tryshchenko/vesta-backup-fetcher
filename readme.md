@@ -10,6 +10,8 @@ Supposed to be running on your:
 - Smart toaster
 - ... or even normal computer, if you need it occasionally
 
+_Unit tests, functional tests, CI integrations and other very important stuff are not going to be implemented_
+
 Library is fairly small (less than 40 lines of formatted code), you can easily check the library and decide, do you ready to trust it or not. (I spent more time on docs rather then on writing code here)
 
 ## How to
