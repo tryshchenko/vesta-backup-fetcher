@@ -1,5 +1,6 @@
 # 🛳 Vesta Backup Fetcher
-`SFTP downloader of vesta panel backups. Node.js >= 7.6 is required`
+`SFTP downloader for vesta panel backups. Node.js >= 7.6 is required`
+
 *Vesta Backup Fetcher* is a configurable mini node.js library which logs with a chosen user to your server via SFTP and downloads chosen backups to chosen folder. Vesta can push backup archives as a master to FTP slaves. I wanted it to behave as a slave and download backups from another server. Relays only on one dependency: scp2.
 
 Supposed to be running on your:
